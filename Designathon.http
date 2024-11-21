@@ -1,0 +1,6 @@
+@Designathon_HostAddress = http://localhost:5134
+
+GET {{Designathon_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
